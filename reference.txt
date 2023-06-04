@@ -1,0 +1,2 @@
+https://github.com/orgs/tabular-io/repositories
+https://github.com/big-data-europe/docker-hive-metastore-postgresql
